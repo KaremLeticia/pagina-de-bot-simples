@@ -1,2 +1,2 @@
 # paginasimplesdebot
- página de bo feita com HTML e CSS.
+ página de bot feita com HTML e CSS.
